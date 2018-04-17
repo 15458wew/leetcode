@@ -1,3 +1,3 @@
 # leetcode
 leetcode by python
-11
+https://github.com/csujedihy/lc-all-solutions
